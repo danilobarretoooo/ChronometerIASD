@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CronometroIASD</string>
+    <string name="stop"/>
+    <string name="start"/>
+    <string name="Start">Start</string>
+    <string name="Reset">Reset</string>
+</resources>
